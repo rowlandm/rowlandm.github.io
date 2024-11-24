@@ -1,6 +1,6 @@
 # Blog for my thoughts on RDM, Data Analytics, Digital Skills Training, and Complex Research Infrastructure Projects
 
-I have 25 years experience in IT and 13 years experience in designing, developing and implementing many different data analytics and data engineering solutions with a strong focus on customer service. This includes advanced data analytics platforms, research data management and discovery systems, digital skills training, and generally managing complex research infrastructure projets and multi-disciplinary teams. 
+My name is Rowland Mosbergen and I have 25 years experience in IT and 13 years experience in designing, developing and implementing many different data analytics and data engineering solutions with a strong focus on customer service. This includes advanced data analytics platforms, research data management and discovery systems, digital skills training, and generally managing complex research infrastructure projets and multi-disciplinary teams. 
 
 I have managed over $50 million in projects and delivered an estimated $230 million worth of economics benefit, established and led 4 data analytics / multi-disciplinary teams. Creating buy-in with skeptical stakeholders in the data analytics and engineering space is my specialty.  
 
