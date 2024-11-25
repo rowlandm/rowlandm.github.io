@@ -16,7 +16,11 @@ This is an open blog to share all the lessons I've learned (and seen) over the l
 - Mosbergen, Rowland (2022). [Simplifying Data Agreements for Researchers](https://doi.org/10.6084/m9.figshare.21259407). figshare. Presentation.
 - Mosbergen, Rowland (2020). [Strategic Planning using a Change Management Lifecycle Framework](https://doi.org/10.6084/m9.figshare.12199856). figshare. Presentation.
 - Mosbergen, Rowland (2020). [Challenges, opportunities, and possible frameworks for continuing to build bioinformatics software communities across Asia](https://doi.org/10.6084/m9.figshare.13138754). figshare. Presentation.
-- Mosbergen, Rowland (2020). [Capability Maturity Model for Data Sharing](https://doi.org/10.6084/m9.figshare.12279155). figshare. Presentation. 
+- Mosbergen, Rowland (2020). [Capability Maturity Model for Data Sharing](https://doi.org/10.6084/m9.figshare.12279155). figshare. Presentation.
+- Mosbergen, Rowland (2020). [Data Transformation Presentation at Peru Instituto de Salud del Nino (Peru Institute of Children's Health in Lima)](https://doi.org/10.6084/m9.figshare.12218153.v1). figshare. Presentation.
+- Mosbergen, Rowland (2020). [Proactive Communities of Practice](https://doi.org/10.6084/m9.figshare.12198501.v2). figshare. Presentation.
+- Mosbergen, Rowland (2019). [Strategy for engaging researchers at scale](https://doi.org/10.6084/m9.figshare.10115909.v1). figshare. Presentation.
+- Mosbergen, Rowland; NAGPAL, ISHA; Korn, Othmar; MORA, ARIANE; CHEN, TYRONE; PACHECO RIVERA, CHRIS; et al. (2019). [The Stemformatics Virtual Lab: More than genomic data visualisation in the cloud](https://doi.org/10.6084/m9.figshare.10099412.v2). figshare. Presentation. 
 
 ## Links of interest
 
