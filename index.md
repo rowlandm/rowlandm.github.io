@@ -33,6 +33,8 @@ Project Staff
 Project Managers
 Change Managers
 with a comment: Figure 3. Diagram showing how a translator (in the middle) can translate across all the different stakeholders.](https://github.com/user-attachments/assets/1dbbfda8-8cff-4034-8fe2-33bf2bfad8a9)
+alt-text: Title: Translators. A &quot;translator&quot; (or glue-person) sits at the center of complex projects and creates authentic, concrete communication between stakeholders. They translate, collaborate, and challenge assumptions. They are generalists with good knowledge, experience, and skills across multiple areas who like to connect people and collaborate. Picture of a person in the middle of a list of roles: 
+Legal Staff, Grants Staff, Financial Staff, Governance Staff, Ethics and Integrity, Health Researchers, Data Stewards, Data Curators, Researchers, Trainers, Software Developers, Service Providers, IT sysadmins, IT Security, Helpdesk, Funders, Sponsors, Project Staff, Project Managers, Change Managers. With a comment: Figure 3. Diagram showing how a translator (in the middle) can translate across all the different stakeholders.
 
 From Mosbergen, Rowland (2023). Three Common Mistakes in Managing Complex New Projects. figshare. Presentation. https://doi.org/10.6084/m9.figshare.23639565.v2
 
