@@ -2,6 +2,7 @@
 
 This is an open blog to share all the lessons I've learned (and seen) over the last 25 years in fintech, IT support, data analytics, research software and digital research infrastructure around Research Data Management, Data Analytics, Digital Skills Training, and Machine Learning.
 
+---
 
 ## Translators - one key role you need for complex projects
 
