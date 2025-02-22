@@ -4,6 +4,29 @@ This is an open blog to share all the lessons I've learned (and seen) over the l
 
 ---
 
+## 𝗗𝗮𝘁𝗮 𝗶𝘀 𝘂𝘀𝘂𝗮𝗹𝗹𝘆 𝘁𝗿𝗲𝗮𝘁𝗲𝗱 𝗮𝘀 𝗮 𝗺𝗼𝗻𝗼𝗹𝗶𝘁𝗵 𝗶𝗻 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 (𝗥𝗗𝗠) 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+![Raw, Processed, and Summarised Data Sizes with picture of three coffee cups of small, medium, and large sizes. Raw data can be quite big, so we want to keep it in the one place and not move it around. 
+Processed data can also be quite big, so similarly, we don’t want to move it either. 
+Summarised data is usually smaller, and is used for interactive visualisation and analysis, plus it is easier to share due to its smaller size. 
+Data is usually treated as a monolith in Research Data Management (RDM) projects.
+](https://github.com/user-attachments/assets/08e81743-3018-4816-b61d-6ff9b751dcb2)
+
+
+But recently I’ve been thinking about breaking it into three separate areas - raw, processed and summarised data sizes.
+
+This allows us to think about 𝗳𝗶𝘁-𝗳𝗼𝗿-𝗽𝘂𝗿𝗽𝗼𝘀𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 with more precision.
+
+Raw data can be quite big, so we want to keep it in the one place and not move it around. 
+
+Processed data can also be quite big, so similarly, we don’t want to move it either. 
+
+Summarised data is usually smaller, and is used for interactive visualisation and analysis, plus it is easier to share due to its smaller size. 
+
+This has really helped us design **the REDMANE ecosystem**.
+
+---
+
 ## ON CORE at the Brisbane Powerhouse 20th of February 2025
 
 **I had a wonderful time at ON Core 2025, hosted by the CSIRO.**
@@ -64,3 +87,4 @@ From Mosbergen, Rowland (2023). Three Common Mistakes in Managing Complex New Pr
 - [Articles](articles)
 - [LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/)
 - [Figshare](https://figshare.com/authors/Rowland_Mosbergen/7533140)
+- [Edit this page](https://github.com/rowlandm/rowlandm.github.io)
