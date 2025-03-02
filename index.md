@@ -4,6 +4,28 @@ This is an open blog to share all the lessons I've learned (and seen) over the l
 
 ---
 
+
+## Complex problems require hybrid solutions
+
+I was chatting with the lovely folks at Open Life Science recently, and I shared this quote, "Complex problems require hybrid solutions" . This sparked quite a bit of conversation. I was surprised by the reaction because it’s something I think about often.
+
+Too often, people try to solve complex problems with simple solutions, but it’s like squeezing a balloon from one end—problems just pop up on the other side, or it becomes a never-ending game of whack-a-mole where you're always putting out fires but never gaining traction.
+
+In research data management (RDM), this is definitely one of those complex problems that requires a hybrid solution.
+
+So, the real question is: **What kind of hybrid solution will truly solve your complex RDM problem?**
+
+The hybrid approach I advocate for is one that’s scalable *and* useful. It's not about creating something that scales but isn’t practical, or something that’s useful but doesn’t scale. It’s about finding something that is scalable that can be extended so that it becomes useful in many different scenarios - a perfect way to think about RDM solutions.
+
+In fact instead of thinking about an RDM solution you probably want to start thinking about an RDM ecosystem.
+
+Now, when thinking about research automation solutions, instead of asking, “Will this solve my problem?” ask, “How extensible and scalable is this so that it will be useful enough to solve my complex RDM problem?”
+
+#HybridSolutions #ResearchAutomation #TechForResearch #RSECommunity #InnovationInResearch
+
+
+---
+
 ## 𝗗𝗮𝘁𝗮 𝗶𝘀 𝘂𝘀𝘂𝗮𝗹𝗹𝘆 𝘁𝗿𝗲𝗮𝘁𝗲𝗱 𝗮𝘀 𝗮 𝗺𝗼𝗻𝗼𝗹𝗶𝘁𝗵 𝗶𝗻 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 (𝗥𝗗𝗠) 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 
 ![Raw, Processed, and Summarised Data Sizes with picture of three coffee cups of small, medium, and large sizes. Raw data can be quite big, so we want to keep it in the one place and not move it around. 
