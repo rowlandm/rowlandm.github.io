@@ -17,6 +17,9 @@ So, the real question is: **What kind of hybrid solution will truly solve your c
 
 The hybrid approach I advocate for is one that’s scalable *and* useful. It's not about creating something that scales but isn’t practical, or something that’s useful but doesn’t scale. It’s about finding something that is scalable that can be extended so that it becomes useful in many different scenarios - a perfect way to think about RDM solutions.
 
+![Title: Complex Problems Need Hybrid Solutions. REDMANE is a hybrid solution built to be extensible. Until the service or infrastructure is specific enough to solve concrete problems for researchers (see dotted line), it will not be seen as usable by researchers, and uptake will be low. This is why hybrid options need to be considered. There is a diagram where the negative Y-axis is labeled "Depth," and the X-axis is labeled "Breadth Across Domains." There is a dotted line that shows the usefulness of a service. One rectangle is labeled "Scalable but Not Specific Enough for Researchers," where the depth doesn’t reach the dotted line. Another rectangle is labeled "Specific for a Domain but Not Scalable," where it is deep enough but not wide enough for other domains. A third rectangle is labeled "Hybrid, Scalable, and Extensible," and it is connected to three other rectangles that allow it to go past the dotted line, showing that it’s useful. These three rectangles that build on the "Hybrid, Scalable, and Extensible" rectangle are labeled "Hybrid Model to Build Specific Things Quickly."](https://github.com/user-attachments/assets/96b5fe59-12dc-4085-909d-95c845c9f4ec)
+
+
 In fact instead of thinking about an RDM solution you probably want to start thinking about an RDM ecosystem.
 
 Now, when thinking about research automation solutions, instead of asking, “Will this solve my problem?” ask, “How extensible and scalable is this so that it will be useful enough to solve my complex RDM problem?”
