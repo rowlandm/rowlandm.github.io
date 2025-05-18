@@ -3,7 +3,25 @@
 This is an open blog to share all the lessons I've learned (and seen) over the last 25 years in fintech, IT support, data analytics, research software and digital research infrastructure around Research Data Management, Data Analytics, Digital Skills Training, and Machine Learning.
 
 ---
+## Reflecting on Internship Onboarding (Part 1)
 
+May 19th 2025
+
+Just wrapped up the submission of projects for my Semester 2, 2025 internship program.
+
+Now I'm reflecting on how to make onboarding more effective for the next round of interns.
+
+I’ve realised I give them a lot of documentation - too much, maybe? It's well-intentioned, but it makes it hard for them to prioritise, which leads to overwhelm. Having said that, I do tell them how to prioritise, however this is a new thing for interns and they tend to ignore it.
+
+The good thing about providing them with less help is that they get a glimpse into what it’s like to join a complex project in a complex organisation. Some rise to the challenge, building confidence as they navigate ambiguity with encouragement and support.
+
+The bad thing is it often takes them weeks to truly understand the project—and with only a three-month internship (often interrupted by exams), that means they get just a couple of weeks of meaningful work in at the end.
+
+It's a challenge to balance  this out.
+
+How much do you guide, and how much do you let them struggle through?
+
+---
 
 ## Complex problems require hybrid solutions
 
